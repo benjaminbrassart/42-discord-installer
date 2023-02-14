@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -ex
+set -e
 
 DISCORD_VERSION='0.0.25'
 TAR_NAME="$(mktemp)"
